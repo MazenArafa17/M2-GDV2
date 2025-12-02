@@ -26,7 +26,8 @@ public class array : MonoBehaviour
 
     }
     private void PrintAllItems() {
-        Debug.Log(string.Join(", ", names));
+        foreach (var it in names){
+            Debug.Log(it);
     }
-
+    }
 }
