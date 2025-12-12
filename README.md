@@ -31,6 +31,15 @@ Gif voor werking:
 
 <br>
 
+# Opdracht 3.1 Score & Triggers
+
+## Hier moesten we een peggle (target) maken die ontwijnt met aantal hits en ook punten aangeeft wanneer je het raakt met de cannon van de vorige opdracht.
+Gif for werking:
+
+![MedalTVScreenRecording20251212151926887-1765549211-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/aab746d8-6fa9-4e3c-a4b1-5e6d3f756b66)
+
+<br>
+
 # Game Concept Peggle  
 
 ### Titel: Spaceracer
