@@ -25,6 +25,8 @@ Gif voor werking:
 # Opdracht 2.2 Aim, Shoot and Line
 
 ## Hier moest ik leren hoe ik een cannnon png als mikker in te voeren en het ook te laten schieten met cannonballen.
+
+
 Gif voor werking:
 
 ![MedalTVUnity20251212150306801-1765548246-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/7db14a26-0c60-402d-aa94-63c30e57ba52)
