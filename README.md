@@ -1,3 +1,5 @@
+# Alle scripts in aparte repository onderaan de README
+
 # Opdracht 1-A Array
 
 ## Hier moest ik leren hoe arrays werken en 1 of alle namen laten zien met een knopje.
