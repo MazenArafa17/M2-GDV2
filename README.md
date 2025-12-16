@@ -31,6 +31,11 @@ Gif voor werking:
 
 ![MedalTVUnity20251212150306801-1765548246-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/7db14a26-0c60-402d-aa94-63c30e57ba52)
 
+Link naar scripts:
+[Shoot](Opdracht2.2/Shoot.cs)
+[Aim](Opdracht2.2/Aim.cs)
+=======
+
 <br>
 
 # Opdracht 3.1 Score & Triggers
@@ -46,6 +51,11 @@ Gif for werking:
 ## Hier moesten we meerdere peggles als prefabs zetten met een script waar ze een unieke score aangeven in een script die zich bevindt in de game files zelf as een gameobject. De ballen die worden geschoten gaan ook verdwijnen wanneer ze de floer raken van de level die buiten zicht is.
 Gif voor de werking:
 ![MedalTVScreenRecording20251212152541061-1765549608-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/0371e182-7aab-41e8-a160-1d58739dfa8d)
+
+Link naar scripts:
+[BumperHit](Opdracht3.2/BumperHit.cs)
+[ComboSystem](Opdracht3.2/ComboSystem.cs)
+=======
 
 <br>
 
