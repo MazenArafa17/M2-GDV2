@@ -80,7 +80,9 @@ Link naar scripts:
 # Opdracht 5.2 Particles, Sounds & Shakes
 ## Hier moest ik geluiden en particles toevoegen aan de game en de bumpers. Dat ging goed.
 
-Gif voor de werking:
+Video (met geluid) voor de werking:
+
+https://github.com/user-attachments/assets/fcd11710-7f33-44df-a567-ef3b6bf966b0
 
 
 Link naar scripts:
