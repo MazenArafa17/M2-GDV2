@@ -41,6 +41,7 @@ Link naar scripts:
 # Opdracht 3.1 Score & Triggers
 
 ## Hier moesten we een peggle (target) maken die ontwijnt met aantal hits en ook punten aangeeft wanneer je het raakt met de cannon van de vorige opdracht.
+
 Gif for werking:
 
 ![MedalTVScreenRecording20251212151926887-1765549211-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/aab746d8-6fa9-4e3c-a4b1-5e6d3f756b66)
@@ -49,6 +50,7 @@ Gif for werking:
 
 # Opdracht 3.2 Peggle_Combos_Multiplier_Events
 ## Hier moesten we meerdere peggles als prefabs zetten met een script waar ze een unieke score aangeven in een script die zich bevindt in de game files zelf as een gameobject. De ballen die worden geschoten gaan ook verdwijnen wanneer ze de floer raken van de level die buiten zicht is.
+
 Gif voor de werking:
 ![MedalTVScreenRecording20251212152541061-1765549608-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/0371e182-7aab-41e8-a160-1d58739dfa8d)
 
