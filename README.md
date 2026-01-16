@@ -55,7 +55,18 @@ Gif voor de werking:
 Link naar scripts:
 [BumperHit](Opdracht3.2/BumperHit.cs)
 [ComboSystem](Opdracht3.2/ComboSystem.cs)
-=======
+
+<br>
+
+# Opdracht 4.2 Waardes (score) versturen naar de UI
+## Hier moesten we de UI die we hebben gemaakt in 4.1 te laten werken als score en multiplier UI die je in de game zelf ziet.
+
+Gif voor de werking:
+
+
+Link naar scripts:
+[UIComboSystem](Opdracht4.2/UIComboSystem.cs)
+[ComboSystem](Opdracht4.2/ComboSystem.cs)
 
 <br>
 
