@@ -70,6 +70,17 @@ Link naar scripts:
 
 <br>
 
+# Opdracht 5.2 Particles, Sounds & Shakes
+## Hier moest ik geluiden en particles toevoegen aan de game en de bumpers. Dat ging goed.
+
+Gif voor de werking:
+
+
+Link naar scripts:
+[ComboSystem](Opdracht5.2/ComboSystem.cs)
+[HitBumper](Opdracht5.2/HitBumper.cs)
+[Screenshake](Opdracht5.2/Screenshake.cs)
+
 # Game Concept Peggle  
 
 ### Titel: Spaceracer
