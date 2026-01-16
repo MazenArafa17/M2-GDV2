@@ -63,6 +63,8 @@ Link naar scripts:
 
 Gif voor de werking:
 
+![MedalTVUnity20260116073620333-tr-edit](https://github.com/user-attachments/assets/c1dad491-adc1-4dea-958b-2f0cccb24806)
+
 
 Link naar scripts:
 [UIComboSystem](Opdracht4.2/UIComboSystem.cs)
